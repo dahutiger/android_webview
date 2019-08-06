@@ -23,8 +23,10 @@
 
 - Android官方依赖库：androidx系列
 
-- json数据解析：Gso
+- json数据解析：Gson
 
 - WebView：腾讯tbs（X5）内核
 
 - Log库：timber
+
+- 状态栏：immersionbar
