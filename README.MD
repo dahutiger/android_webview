@@ -1,4 +1,3 @@
-# 丰城专运城配项目——承运商Android客户端
 
 ###### 开发环境：
 - IDE：Android Studio
