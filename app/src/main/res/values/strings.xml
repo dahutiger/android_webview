@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">fengcheng</string>
+    <string name="app_name">WebView</string>
     
     <string name="login">登录</string>
     <string name="input_mobile">请输入手机号或工号</string>
@@ -14,8 +14,6 @@
     <string name="msg_exit_app">再按一次退出APP！</string>
     <string name="goto_setting">去设置</string>
     
-    <string name="login_ing">登录中&#8230;</string>
-    
     <string name="take_picture">拍照</string>
     <string name="choose_from_album">从相册选择</string>
     <string name="capture_failed">拍照失败，请重试！</string>
@@ -24,17 +22,5 @@
     <string name="compress_photo_failed">压缩图片失败，请重试！</string>
     <string name="img_uploading">图片上传中</string>
     
-    <string name="activate_account">激活账号</string>
-    <string name="activate">激活</string>
-    <string name="reset_pwd_success">密码重置成功，请使用新密码登录！</string>
-    <string name="pls_input_verify_code">请输入验证码</string>
-    <string name="pls_input_phone_number">请输入手机号</string>
-    <string name="pls_input_password">请输入密码</string>
-    <string name="pls_confirm_pwd">请确认密码</string>
-    <string name="confirm_new_pwd">确认密码</string>
-    <string name="send_verify_code">发送验证码</string>
-    <string name="resend_second">重新发送%ss</string>
-    <string name="entered_passwords_differ">两次输入的密码不一致</string>
-    <string name="at_least_6_password">密码至少6位</string>
     
 </resources>
