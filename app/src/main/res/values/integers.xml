@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="id_number_max">18</integer>
+    <integer name="mobile_number_len">11</integer>
+    <integer name="password_len_min">6</integer>
+    <integer name="password_len_max">16</integer>
+    <integer name="name_len_min">2</integer>
+    <integer name="name_len_max">8</integer>
+    
+    
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Text" />
+
+    <style name="Text.F10">
+        <item name="android:textSize">@dimen/font_10</item>
+    </style>
+
+    <style name="Text.F11">
+        <item name="android:textSize">@dimen/font_11</item>
+    </style>
+
+    <style name="Text.F12">
+        <item name="android:textSize">@dimen/font_12</item>
+    </style>
+
+    <style name="Text.F13">
+        <item name="android:textSize">@dimen/font_13</item>
+    </style>
+
+    <style name="Text.F14">
+        <item name="android:textSize">@dimen/font_14</item>
+    </style>
+
+    <style name="Text.F15">
+        <item name="android:textSize">@dimen/font_15</item>
+    </style>
+
+    <style name="Text.F16">
+        <item name="android:textSize">@dimen/font_16</item>
+    </style>
+
+    <style name="Text.F18">
+        <item name="android:textSize">@dimen/font_18</item>
+    </style>
+
+    <style name="Text.F20">
+        <item name="android:textSize">@dimen/font_20</item>
+    </style>
+
+    <style name="Text.F21">
+        <item name="android:textSize">@dimen/font_21</item>
+    </style>
+
+    <style name="Text.F22">
+        <item name="android:textSize">@dimen/font_22</item>
+    </style>
+
+    <style name="Text.F24">
+        <item name="android:textSize">@dimen/font_24</item>
+    </style>
+
+    <style name="Text.F36">
+        <item name="android:textSize">@dimen/font_36</item>
+    </style>
+
+    <style name="Text.F12.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    
+    <style name="Text.F12.Accent">
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="Text.F13.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    
+    <style name="Text.F14.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Text.F14.Primary">
+        <item name="android:textColor">@color/textColorPrimary</item>
+    </style>
+
+    <style name="Text.F14.Accent">
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+    <style name="Text.F14.Gray88">
+        <item name="android:textColor">@color/gray_88</item>
+    </style>
+    
+    <style name="Text.F14.Gray66">
+        <item name="android:textColor">@color/gray_66</item>
+    </style>
+    <style name="Text.F14.GrayCC">
+        <item name="android:textColor">@color/gray_cc</item>
+    </style>
+    
+    <style name="Text.F16.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Text.F16.Primary">
+        <item name="android:textColor">@color/textColorPrimary</item>
+    </style>
+
+    <style name="Text.F16.Accent">
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="Text.F16.Gray33">
+        <item name="android:textColor">@color/gray_33</item>
+    </style>
+
+    <style name="Text.F16.Gray66">
+        <item name="android:textColor">@color/gray_66</item>
+    </style>
+
+    <style name="Text.F16.Gray88">
+        <item name="android:textColor">@color/gray_88</item>
+    </style>
+
+    <style name="Text.F16.Gray99">
+        <item name="android:textColor">@color/gray_66</item>
+    </style>
+
+    <style name="Text.F18.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Text.F18.Primary">
+        <item name="android:textColor">@color/textColorPrimary</item>
+    </style>
+
+    <style name="Text.F18.Gray33">
+        <item name="android:textColor">@color/gray_33</item>
+    </style>
+
+    <style name="Text.F18.Red">
+        <item name="android:textColor">@color/red</item>
+    </style>
+
+    <style name="Text.F18.Accent">
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="Text.F20.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Text.F20.Gray33">
+        <item name="android:textColor">@color/gray_33</item>
+    </style>
+
+    <style name="Text.F21.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Text.F21.Gray33">
+        <item name="android:textColor">@color/gray_33</item>
+    </style>
+
+    <style name="Text.F24.Gray33">
+        <item name="android:textColor">@color/gray_33</item>
+    </style>
+
+    <style name="Text.F36.Gray33">
+        <item name="android:textColor">@color/gray_33</item>
+    </style>
+
+</resources>

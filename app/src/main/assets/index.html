@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>接口测试</title>
+    </head>
+
+    <body style="width">
+        <input id="file1" type="file" accept="image/camera" onchange="onFileChanged(this)">
+        <br>
+        <p id="result"></p>
+        
+        <p id="capture_result"></p>
+        
+        <button id="gallery" type="button" onclick="native_picture.gallery('captureResult')">相册</button>
+        <button id="capture" type="button" onclick="native_picture.capture('captureResult')">拍照</button>
+        
+        <script type="text/javascript">
+            function onFileChanged(element) {
+                console.log("onFileChanged");
+
+                var el = document.getElementById("result");
+                el.innerHTML = "文件：" + element.value;
+            }
+            
+            function captureResult(path) {
+                console.log("captureResult");
+                var el = document.getElementById("capture_result");
+                if (path) {
+                    el.innerHTML = path;
+                } else {
+                    el.innerHTML = "拍照失败";
+                }
+            }
+        </script>
+
+    </body>
+</html>
